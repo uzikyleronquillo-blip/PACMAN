@@ -1,0 +1,12 @@
+module.exports = [
+  {question:"Which job usually teaches students in a school?", options:{A:"Teacher",B:"Chef",C:"Driver"}, correct:"A", category:"Common Job", explanation:"A teacher teaches and supports students."},
+  {question:"Which job is considered an uncommon job?", options:{A:"Doctor",B:"Food Stylist",C:"Nurse"}, correct:"B", category:"Uncommon Job", explanation:"A food stylist prepares food to look attractive for photos and media."},
+  {question:"Which job creates software and computer applications?", options:{A:"Software Developer",B:"Farmer",C:"Singer"}, correct:"A", category:"Technical Job", explanation:"Software developers create and maintain software."},
+  {question:"Which job uses visual ideas to create posters and digital designs?", options:{A:"Police Officer",B:"Graphic Designer",C:"Pilot"}, correct:"B", category:"Creative Job", explanation:"Graphic designers create visual communication and designs."},
+  {question:"Which job dives to find lost golf balls?", options:{A:"Golf Ball Diver",B:"Dentist",C:"Architect"}, correct:"A", category:"Uncommon Job", explanation:"Golf ball divers retrieve golf balls from water hazards."},
+  {question:"Which job protects computer systems from cyber attacks?", options:{A:"Fashion Designer",B:"Cybersecurity Specialist",C:"Chef"}, correct:"B", category:"Technical Job", explanation:"Cybersecurity specialists help protect networks, systems and data."},
+  {question:"Which job commonly prepares meals in a restaurant?", options:{A:"Chef",B:"Animator",C:"Network Technician"}, correct:"A", category:"Common Job", explanation:"A chef prepares food, often in a restaurant or other food service setting."},
+  {question:"Which job creates movement and visual stories for films or games?", options:{A:"Animator",B:"Bus Driver",C:"Nurse"}, correct:"A", category:"Creative Job", explanation:"Animators create the illusion of movement in visual media."},
+  {question:"Which job works with robots and automated machines?", options:{A:"Robotics Engineer",B:"Photographer",C:"Teacher"}, correct:"A", category:"Technical Job", explanation:"Robotics engineers design, build or work with robotic systems."},
+  {question:"Which job creates new clothing styles and collections?", options:{A:"Police Officer",B:"Fashion Designer",C:"Data Analyst"}, correct:"B", category:"Creative Job", explanation:"Fashion designers develop clothing concepts, styles and collections."}
+];

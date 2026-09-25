@@ -1,0 +1,19 @@
+{
+  "name": "pac-style-career-maze",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Real-time 4-5 player arcade maze career quiz game for classrooms.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "qrcode": "^1.5.4",
+    "socket.io": "^4.8.1"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
